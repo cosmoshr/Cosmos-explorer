@@ -14,14 +14,14 @@ func get_input(delta):
 	if Input.get_action_strength("down") > 0.5:
 		velocity.y += Input.get_action_strength("down")
 	
-	if Input.is_action_pressed("zoom_in"):
+	if Input.is_action_just_pressed("zoom_in"):
 		print("in")
-		zoom *= 200 * delta
+		zoom *= 0.5
 	if Input.is_action_just_pressed("zoom_out"):
 		print("out")
-		zoom /= 200 * delta
+		zoom *= 2
 
 func _physics_process(delta):
 	get_input(delta)
-	velocity = velocity.normalized() * speed
+	velocity = velocity.normalized() * speed * (zoom / 2) * delta
 	position += velocity

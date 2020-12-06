@@ -44,7 +44,7 @@ margin_top = 14.0
 margin_right = 944.0
 margin_bottom = 30.0
 min_value = 500.0
-max_value = 99999.0
+max_value = 999999.0
 value = 500.0
 
 [node name="Button" type="Button" parent="."]
