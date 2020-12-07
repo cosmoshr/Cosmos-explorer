@@ -1,7 +1,0 @@
-/home/main/Documents/Dev/Cosmos explorer/.mono/temp/bin/ExportDebug/Cosmos explorer.dll
-/home/main/Documents/Dev/Cosmos explorer/.mono/temp/bin/ExportDebug/Cosmos explorer.pdb
-/home/main/Documents/Dev/Cosmos explorer/.mono/temp/obj/ExportDebug/Cosmos explorer.csprojAssemblyReference.cache
-/home/main/Documents/Dev/Cosmos explorer/.mono/temp/obj/ExportDebug/Cosmos explorer.AssemblyInfoInputs.cache
-/home/main/Documents/Dev/Cosmos explorer/.mono/temp/obj/ExportDebug/Cosmos explorer.AssemblyInfo.cs
-/home/main/Documents/Dev/Cosmos explorer/.mono/temp/obj/ExportDebug/Cosmos explorer.dll
-/home/main/Documents/Dev/Cosmos explorer/.mono/temp/obj/ExportDebug/Cosmos explorer.pdb
