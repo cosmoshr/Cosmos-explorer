@@ -83,3 +83,5 @@ func _ready():
 		var ss = solar_system.instance()
 		ss.solarsystem = solarsystem
 		add_child(ss)
+	
+	print("Instance")
