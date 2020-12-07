@@ -23,5 +23,5 @@ func get_input(delta):
 
 func _physics_process(delta):
 	get_input(delta)
-	velocity = velocity.normalized() * speed * (zoom / 2) * delta
+	velocity = velocity.normalized() * speed * zoom * delta
 	position += velocity
