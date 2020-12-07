@@ -1,0 +1,3 @@
+[submodule "assets/graphic-assets"]
+	path = assets/graphic-assets
+	url = https://github.com/cosmoshr/graphic-assets.git

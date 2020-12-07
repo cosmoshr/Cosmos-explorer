@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/main/Documents/Dev/Cosmos explorer/Cosmos explorer.csproj": {}
+  },
+  "projects": {
+    "/home/main/Documents/Dev/Cosmos explorer/Cosmos explorer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/main/Documents/Dev/Cosmos explorer/Cosmos explorer.csproj",
+        "projectName": "Cosmos explorer",
+        "projectPath": "/home/main/Documents/Dev/Cosmos explorer/Cosmos explorer.csproj",
+        "packagesPath": "/home/main/.nuget/packages/",
+        "outputPath": "/home/main/Documents/Dev/Cosmos explorer/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/main/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
